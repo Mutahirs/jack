@@ -9,8 +9,8 @@ variable "cluster_name" {
   description = "The name of AWS ECS cluster"
 }
 
-variable "aws_access_key" {}
+#variable "aws_access_key" {}
 
-variable "aws_secret_key" {}
+#variable "aws_secret_key" {}
 
 #variable "ami_key_pair_name" {}
