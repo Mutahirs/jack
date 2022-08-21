@@ -1,7 +1,7 @@
 [
     {
       "name": "pink-slon",
-      "image": "497595013320.dkr.ecr.us-east-1.amazonaws.com/verna",
+      "image": "378968434263.dkr.ecr.us-east-1.amazonaws.com/jenkins-pipeline:v1",
       "cpu": 10,
       "memory": 256,
       "essential": true,
