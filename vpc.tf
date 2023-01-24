@@ -32,7 +32,7 @@ resource "aws_route_table" "main" {
     cidr_block = "0.0.0.0/0"
     gateway_id = aws_internet_gateway.redigw.id
   }
-
+MUTAHIR change
   tags = {
     Name = "mainrt"
   }
